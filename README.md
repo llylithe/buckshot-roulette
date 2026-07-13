@@ -1,11 +1,1 @@
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
-# buckshot-roulette
+text based buckshot roulette written in C++
